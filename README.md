@@ -77,7 +77,7 @@ To run this project locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/SRIKANTHSK30/portfolio.git
+git clone https://github.com/SRIKANTHSK30/Personal-Portfolio.git
 
 # Go into the project folder
 cd portfolio
