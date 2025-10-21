@@ -7,3 +7,12 @@
     @apply bg-black text-white relative font-sans h-screen overflow-x-hidden
   }
 }
+.bg-deep-emerald {
+  background-color: #064E3B;
+}
+.bg-deep-pink {
+  background-color: #871c5a;
+}
+.bg-deep-sky {
+  background-color: #0C4A6E;
+}
