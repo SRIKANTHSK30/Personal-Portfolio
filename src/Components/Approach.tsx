@@ -28,7 +28,7 @@ const Approach = () => {
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
-            className="bg-[#064e3b] rounded-3xl overflow-hidden"
+            className="bg-emerald-800 rounded-3xl overflow-hidden"
           />
         </Card>
 
@@ -40,7 +40,7 @@ const Approach = () => {
         >
           <CanvasRevealEffect
             animationSpeed={3}
-            className="bg-[#831843] rounded-3xl overflow-hidden"
+            className="bg-pink-800 rounded-3xl overflow-hidden"
             colors={[
               [255, 166, 158],
               [221, 255, 247],
@@ -57,7 +57,7 @@ const Approach = () => {
         >
           <CanvasRevealEffect
             animationSpeed={3}
-            className="bg-[#0ea5e9] rounded-3xl overflow-hidden"
+            className="bg-sky-800 rounded-3xl overflow-hidden"
             colors={[[125, 211, 252]]}
           />
         </Card>
