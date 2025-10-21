@@ -67,7 +67,7 @@ My goal was to build something that isn’t just a showcase — but an experienc
 
 ## 🚀 Live Demo
 
-👉 **[View My Portfolio](https://your-portfolio.vercel.app)**  
+👉 **[View My Portfolio](https://srikanth-s-portfolio.vercel.app/)**  
 
 ---
 
